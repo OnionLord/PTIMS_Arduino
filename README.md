@@ -13,4 +13,5 @@ http://www.dfrobot.com/index.php?route=product/product&product_id=1023#.VlgOZNLh
 Arduino WiFi Shield
 https://www.arduino.cc/en/Main/ArduinoWiFiShield
 
-See Arduino.png.
+
+<img src="./arduino.png">
