@@ -42,10 +42,6 @@ void setup()
   pinMode(BOOL_PIN, INPUT);                        //set pin to input
     digitalWrite(BOOL_PIN, HIGH);                    //turn on pullup resistors
 
-  Serial.println("2015 PROG PRJECT STEP #1");
-  //Serial.print("DHT LIBRARY VERSION: ");
-  //Serial.println(DHT_LIB_VERSION);
-  Serial.println();
   
    if (WiFi.status() == WL_NO_SHIELD) { // 현재 아두이노에 연결된 실드를 확인
     Serial.println("WiFi shield not present"); 
