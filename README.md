@@ -1,6 +1,8 @@
 # PTIMS_Arduino
 Arduino Sensor for Public Transportation Intensity Measuring Systems
 
+Using GPL v3 License
+
 전체 적인 설명은 PTIMS_ASP_Webserver에 있음.
 If you want explanation for PTIMS go to the repository PTIMS_ASP_Webserver.
 
